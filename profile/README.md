@@ -7,8 +7,8 @@ Since the first version of Karate was released five years ago, we have successfu
 </tr>
 </table>
 
-Karate was created by a developer - keeping Developer Experience first and foremost. We made test-scripts simpler, more readable, and maintainable by relying on an innovative combination of an interpreted DSL (Domain Specific Language), JSON support and JavaScript engine.
+Karate was created by a developer - keeping Developer Experience first and foremost. We made test-scripts simpler, more readable, and more maintainable by relying on an innovative DSL (Domain Specific Language), JSON support and JavaScript engine.
 
-Staying true to our mission of making test automation fun & collaborative, we continue to invest in enhancing Developer Experience (DX).
+Staying true to our mission of making test automation fun & collaborative, we continue to invest in elevating the Developer Experience.
 
 Get started now with the [IntelliJ plugin](https://plugins.jetbrains.com/plugin/19232-karate) or download as a [ZIP Release](https://github.com/karatelabs/karate/wiki/ZIP-Release) or [Maven / Gradle artifact](https://karatelabs.github.io/karate/#getting-started).
