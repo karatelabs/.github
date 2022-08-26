@@ -3,7 +3,14 @@
 <td>
 Since the first version of Karate was released five years ago, we have successfully made testing fun and collaborative. <br/><br/>Our 6200 GitHub stars and adoption by the Global 2000 is clear indication that Karate is a top choice for developers, QA teams, and enterprise customers.
 </td>
-<td width="30%"><a href="https://karatelabs.io"><img src="https://raw.githubusercontent.com/karatelabs/.github/main/profile/karate-labs-wide.png"/></a></td>
+<td width="30%">
+<a href="https://karatelabs.io">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./karate-labs-wide-black.png">
+  <img src="./karate-labs-wide.png"/>
+</picture>
+</a>
+</td>
 </tr>
 </table>
 
