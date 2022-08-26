@@ -6,8 +6,8 @@ Since the first version of Karate was released five years ago, we have successfu
 <td width="30%">
 <a href="https://karatelabs.io">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./karate-labs-wide-black.png">
-  <img src="./karate-labs-wide.png"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karatelabs/.github/main/profile/karate-labs-wide-black.png">
+  <img src="https://raw.githubusercontent.com/karatelabs/.github/main/profile/karate-labs-wide.png"/>
 </picture>
 </a>
 </td>
