@@ -21,7 +21,7 @@ Staying true to our mission of making test automation fun & collaborative, we co
 <table>
 <tr>
 <td>
-<strong>Get Started :arrow_right:</strong>
+<strong>Get Started &nbsp; :arrow_right:</strong>
 </td>
 <td>
 <a href="https://marketplace.visualstudio.com/items?itemName=karatelabs.karate">Visual Studio Code Extension</a>
