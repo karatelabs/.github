@@ -18,4 +18,22 @@ Karate was created by a developer - keeping Developer Experience first and forem
 
 Staying true to our mission of making test automation fun & collaborative, we continue to invest in elevating the Developer Experience.
 
-Get started now with the [IntelliJ plugin](https://plugins.jetbrains.com/plugin/19232-karate) or download as a [ZIP Release](https://github.com/karatelabs/karate/wiki/ZIP-Release) or [Maven / Gradle artifact](https://karatelabs.github.io/karate/#getting-started).
+<table>
+<tr>
+<td>
+<strong>Get Started :arrow_right:</strong>
+</td>
+<td>
+<a href="https://marketplace.visualstudio.com/items?itemName=karatelabs.karate">Visual Studio Code Extension</a>
+</td>
+<td>
+<a href="https://plugins.jetbrains.com/plugin/19232-karate">IntelliJ Plugin</a>
+</td>
+<td>
+<a href="https://github.com/karatelabs/karate/wiki/ZIP-Release">ZIP Release</a>
+</td>
+<td>
+<a href="https://karatelabs.github.io/karate/#getting-started">Maven / Gradle</a>
+</td>
+</tr>
+</table>
