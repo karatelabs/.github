@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td>
-Since the first version of Karate was released five years ago, we have successfully made testing fun and collaborative. <br/><br/>Our 6200 GitHub stars and adoption by the Global 2000 is clear indication that Karate is a top choice for developers, QA teams, and enterprise customers.
+Since the first version of Karate was released five years ago, we have successfully made testing fun and collaborative. <br/><br/>Our 6300 GitHub stars and adoption by the Global 2000 is clear indication that Karate is a top choice for developers, QA teams, and enterprise customers.
 </td>
 <td width="30%">
 <a href="https://karatelabs.io">
