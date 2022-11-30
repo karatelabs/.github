@@ -48,7 +48,7 @@ Staying true to our mission of making test automation fun & collaborative, we co
 <p></p>
 <p><a href="https://www.linkedin.com/company/karatelabs">LinkedIn</a></p>
 <p><a href="https://twitter.com/getkarate">Twitter</a></p>
-<p><a href="https://www.youtube.com/@karatelabs</a></p>
+<p><a href="https://www.youtube.com/@karatelabs">YouTube</a></p>
 </td>
 </tr>
 </table>
