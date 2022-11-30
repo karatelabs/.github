@@ -20,10 +20,10 @@ Staying true to our mission of making test automation fun & collaborative, we co
 
 <table>
 <tr>
-<th><img src="plugin.svg"/> &nbsp; Plugins</th>
-<th><img src="info-square.svg"/> &nbsp; Documentation</th>
-<th><img src="question-circle.svg"/> &nbsp; Help &amp; Support</th>
-<th><img src="question-circle.svg"/> &nbsp; Follow Us</th>
+<th><img src="./plugin.svg"/> &nbsp; Plugins</th>
+<th><img src="./info-square.svg"/> &nbsp; Documentation</th>
+<th><img src="./question-circle.svg"/> &nbsp; Help &amp; Support</th>
+<th><img src="./question-circle.svg"/> &nbsp; Follow Us</th>
 </tr>
 <tr>
 <td>
