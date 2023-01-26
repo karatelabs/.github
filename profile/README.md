@@ -35,11 +35,12 @@
 
 <table>
     <tr>
-        <th width="20%">:electric_plug: &nbsp; Plugins</th>
-        <th width="20%">:office: &nbsp; Enterprise</th>
-        <th width="20%">:book: &nbsp; Docs</th>
-        <th width="20%">:phone: &nbsp; Support</th>
-        <th width="20%">:bell: &nbsp; Follow Us</th>
+        <th width="16%">:electric_plug: &nbsp; Plugins</th>
+        <th width="16%">:octocat: &nbsp; Remote</th>
+        <th width="16%">:office: &nbsp; Enterprise</th>
+        <th width="16%">:book: &nbsp; Docs</th>
+        <th width="16%">:phone: &nbsp; Support</th>
+        <th width="16%">:bell: &nbsp; Follow Us</th>
     </tr>
     <tr>
         <th>
@@ -50,6 +51,11 @@
                 <a href="https://plugins.jetbrains.com/plugin/19232-karate">JetBrains IntelliJ</a>
             </h3>
         </th>
+        <th>
+            <h3>
+                <a href="https://github.com/karatelabs/karate/wiki/Karate-in-GitHub-Codespaces">GitHub Codespaces</a>
+            </h3>
+        </th>        
         <th>
             <h3>
                 <a href="https://www.karatelabs.io/k-flow">K-Flow for <br/> API Documentation</a>
