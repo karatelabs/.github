@@ -6,7 +6,7 @@
                 collaborative.
             </p>
             <p>
-                Our 6500 GitHub stars and adoption by the Global 2000 is clear indication that
+                Our 7000 GitHub stars and adoption by the Global 2000 is clear indication that
                 Karate is a top choice for developers, QA teams, and enterprise customers.
             </p>
         </td>
