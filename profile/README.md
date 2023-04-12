@@ -35,14 +35,22 @@
 
 <table>
     <tr>
+        <th width="16%">:book: &nbsp; Docs</th>
         <th width="16%">:electric_plug: &nbsp; Plugins</th>
         <th width="16%">:octocat: &nbsp; Remote</th>
-        <th width="16%">:office: &nbsp; Enterprise</th>
-        <th width="16%">:book: &nbsp; Docs</th>
+        <th width="16%">:office: &nbsp; Enterprise</th>        
         <th width="16%">:phone: &nbsp; Support</th>
         <th width="16%">:bell: &nbsp; Follow Us</th>
     </tr>
     <tr>
+        <th>
+            <h3>
+                <a href="https://github.com/karatelabs/karate/wiki/Get-Started">Get Started</a>
+            </h3>  
+            <h3>
+                <a href="https://karatelabs.github.io/karate">Main Readme</a>
+            </h3>        
+        </th>    
         <th>
             <h3>
                 <a href="https://marketplace.visualstudio.com/items?itemName=karatelabs.karate">Visual Studio Code</a>
@@ -60,13 +68,6 @@
             <h3>
                 <a href="https://www.karatelabs.io/k-flow">K-Flow for <br/> API Documentation</a>
             </h3>
-        <th>
-            <h3>
-                <a href="https://github.com/karatelabs/karate/wiki/Get-Started">Get Started</a>
-            </h3>  
-            <h3>
-                <a href="https://karatelabs.github.io/karate">Main Readme</a>
-            </h3>        
         </th>
         <th>
             <h3>
