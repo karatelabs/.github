@@ -2,7 +2,7 @@
     <tr>
         <td>
             <p>
-                Since the first version of Karate was released five years ago, we have successfully made testing fun and
+                Since the first version of Karate was released six years ago, we have successfully made testing fun and
                 collaborative.
             </p>
             <p>
