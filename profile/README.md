@@ -49,7 +49,10 @@
             </h3>  
             <h3>
                 <a href="https://karatelabs.github.io/karate">Main Readme</a>
-            </h3>        
+            </h3>
+            <h3>
+                <a href="https://github.com/karatelabs/karate-examples/blob/main/README.md">Examples</a>
+            </h3>             
         </th>    
         <th>
             <h3>
