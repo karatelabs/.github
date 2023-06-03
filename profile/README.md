@@ -77,7 +77,7 @@
                 <a href="https://stackoverflow.com/questions/tagged/karate">Stack Overflow</a>
             </h3>   
             <h3>
-                <a href="https://www.karatelabs.io/karate-labs-contact">Contact Us</a>
+                <a href="https://karatelabs.io/contact-us">Contact Us</a>
             </h3> 
         </th>
         <th>
