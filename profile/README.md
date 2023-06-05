@@ -69,7 +69,7 @@
         </th>        
         <th>
             <h3>
-                <a href="https://www.karatelabs.io/k-flow">K-Flow for <br/> API Documentation</a>
+                <a href="https://karatelabs.io/api-documentation-k-flow">K-Flow for <br/> API Documentation</a>
             </h3>
         </th>
         <th>
