@@ -48,7 +48,7 @@
                 <a href="https://github.com/karatelabs/karate/wiki/Get-Started">Get Started</a>
             </h3>  
             <h3>
-                <a href="https://karatelabs.github.io/karate">Main Readme</a>
+                <a href="https://karatelabs.github.io/karate">Documentation</a>
             </h3>
             <h3>
                 <a href="https://github.com/karatelabs/karate-examples/blob/main/README.md">Examples</a>
