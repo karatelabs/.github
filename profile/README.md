@@ -35,8 +35,8 @@
 
 <table>
     <tr>
-        <th width="16%">:book: &nbsp; Docs</th>
-        <th width="16%">:bulb: &nbsp; Samples</th>
+        <th width="16%">:book: &nbsp; Home</th>
+        <th width="16%">:bulb: &nbsp; How To</th>
         <th width="16%">:electric_plug: &nbsp; Plugins</th>
         <th>:octocat: &nbsp; Enterprise</th>     
         <th width="16%">:phone: &nbsp; Support</th>
@@ -45,10 +45,7 @@
     <tr>
         <th>
             <h3>
-                <a href="https://github.com/karatelabs/karate/wiki/Get-Started">Get Started</a>
-            </h3>
-            <h3>
-                <a href="https://www.youtube.com/playlist?list=PLnONaB4tNFOkxwM3dOvXLXJstSg_wMJSs">Kick Start Videos</a>
+                <a href="https://karatelabs.io">Web Site</a>
             </h3>            
             <h3>
                 <a href="https://karatelabs.github.io/karate">Documentation</a>
@@ -56,10 +53,13 @@
         </th>
         <th>
             <h3>
-                <a href="https://github.com/karatelabs/karate-examples/blob/main/README.md">Examples</a>
+                <a href="https://github.com/karatelabs/karate/wiki/Get-Started">Get Started</a>
             </h3>
             <h3>
-                <a href="https://github.com/karatelabs/karate-examples/blob/main/README.md#integrations">Integrations</a>
+                <a href="https://www.youtube.com/playlist?list=PLnONaB4tNFOkxwM3dOvXLXJstSg_wMJSs">Kick Start Videos</a>
+            </h3>         
+            <h3>
+                <a href="https://github.com/karatelabs/karate-examples/blob/main/README.md">Examples</a>
             </h3>
         </th>            
         <th>
@@ -71,6 +71,9 @@
             </h3>
         </th>      
         <th>
+            <h3>
+                <a href="https://github.com/karatelabs/karate-examples/blob/main/README.md#integrations">Integrations</a>
+            </h3>        
             <h3>
                 <a href="https://github.com/karatelabs/karate/wiki/Karate-in-GitHub-Codespaces">GitHub Codespaces</a>
             </h3>            
