@@ -35,10 +35,10 @@
 
 <table>
     <tr>
-        <th width="16%">:book: &nbsp; Docs</th>
+        <th>:book: &nbsp; Docs</th>
+        <th width="16%">:bulb: &nbsp; Samples</th>
         <th width="16%">:electric_plug: &nbsp; Plugins</th>
-        <th width="16%">:octocat: &nbsp; Remote</th>
-        <th width="16%">:office: &nbsp; Enterprise</th>        
+        <th width="16%">:octocat: &nbsp; Enterprise</th>     
         <th width="16%">:phone: &nbsp; Support</th>
         <th width="16%">:bell: &nbsp; Follow Us</th>
     </tr>
@@ -46,14 +46,22 @@
         <th>
             <h3>
                 <a href="https://github.com/karatelabs/karate/wiki/Get-Started">Get Started</a>
-            </h3>  
-            <h3>
-                <a href="https://karatelabs.github.io/karate">Documentation</a>
             </h3>
             <h3>
+                <a href="https://www.youtube.com/playlist?list=PLnONaB4tNFOkxwM3dOvXLXJstSg_wMJSs">Kick Start Videos</a>
+            </h3>            
+            <h3>
+                <a href="https://karatelabs.github.io/karate">Documentation</a>
+            </h3>            
+        </th>
+        <th>
+            <h3>
                 <a href="https://github.com/karatelabs/karate-examples/blob/main/README.md">Examples</a>
-            </h3>             
-        </th>    
+            </h3>
+            <h3>
+                <a href="https://github.com/karatelabs/karate-examples/blob/main/README.md#integrations">Integrations</a>
+            </h3>
+        </th>            
         <th>
             <h3>
                 <a href="https://marketplace.visualstudio.com/items?itemName=karatelabs.karate">Visual Studio Code</a>
@@ -61,13 +69,11 @@
             <h3>
                 <a href="https://plugins.jetbrains.com/plugin/19232-karate">JetBrains IntelliJ</a>
             </h3>
-        </th>
+        </th>      
         <th>
             <h3>
                 <a href="https://github.com/karatelabs/karate/wiki/Karate-in-GitHub-Codespaces">GitHub Codespaces</a>
-            </h3>
-        </th>        
-        <th>
+            </h3>            
             <h3>
                 <a href="https://karatelabs.io/api-documentation-k-flow">K-Flow for <br/> API Documentation</a>
             </h3>
