@@ -38,9 +38,9 @@
         <th width="16%">:book: &nbsp; Home</th>
         <th width="16%">:bulb: &nbsp; How To</th>
         <th width="16%">:electric_plug: &nbsp; Plugins</th>
-        <th>:octocat: &nbsp; Enterprise</th>     
+        <th width="16%">:octocat: &nbsp; Enterprise</th>     
         <th width="16%">:phone: &nbsp; Support</th>
-        <th width="16%">:bell: &nbsp; Follow Us</th>
+        <th>:bell: &nbsp; Follow Us</th>
     </tr>
     <tr>
         <th>
