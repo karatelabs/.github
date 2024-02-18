@@ -6,7 +6,7 @@
                 collaborative.
             </p>
             <p>
-                Our 7500 GitHub stars and adoption by the Global 2000 is clear indication that
+                Our 8000 GitHub stars and adoption by the Global 2000 is clear indication that
                 Karate is a top choice for developers, QA teams, and enterprise customers.
             </p>
         </td>
@@ -76,9 +76,6 @@
             </h3>        
             <h3>
                 <a href="https://github.com/karatelabs/karate/wiki/Karate-in-GitHub-Codespaces">GitHub Codespaces</a>
-            </h3>            
-            <h3>
-                <a href="https://karatelabs.io/api-documentation-k-flow">K-Flow for API Docs</a>
             </h3>
         </th>
         <th>
