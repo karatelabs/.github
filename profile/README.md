@@ -67,7 +67,7 @@
                 <a href="https://marketplace.visualstudio.com/items?itemName=karatelabs.karate">Visual Studio Code</a>
             </h3>
             <h3>
-                <a href="https://plugins.jetbrains.com/plugin/19232-karate">JetBrains IntelliJ</a>
+                <a href="https://plugins.jetbrains.com/plugin/19232-karate">IntelliJ IDEA</a>
             </h3>
         </th>      
         <th>
