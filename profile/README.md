@@ -6,7 +6,7 @@
                 collaborative.
             </p>
             <p>
-                Our 8000 GitHub stars and adoption by the Global 2000 is clear indication that
+                Our 8500 GitHub stars and adoption by the Global 2000 is clear indication that
                 Karate is a top choice for developers, QA teams, and enterprise customers.
             </p>
         </td>
@@ -37,7 +37,7 @@
     <tr>
         <th width="16%">:book: &nbsp; Home</th>
         <th width="16%">:bulb: &nbsp; How To</th>
-        <th width="16%">:electric_plug: &nbsp; Plugins</th>
+        <th width="16%">:electric_plug: &nbsp; Tools</th>
         <th width="16%">:octocat: &nbsp; Enterprise</th>     
         <th width="16%">:phone: &nbsp; Support</th>
         <th>:bell: &nbsp; Follow Us</th>
@@ -69,6 +69,9 @@
             <h3>
                 <a href="https://github.com/karatelabs/intellij-plugin">IntelliJ IDEA</a>
             </h3>
+            <h3>
+                <a href="https://github.com/karatelabs/xplorer">Xplorer</a>
+            </h3>            
         </th>      
         <th>
             <h3>
