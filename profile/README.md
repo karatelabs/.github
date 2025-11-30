@@ -70,7 +70,7 @@
                 <a href="https://github.com/karatelabs/intellij-plugin">IntelliJ IDEA</a>
             </h3>
             <h3>
-                <a href="https://github.com/karatelabs/xplorer">Xplorer</a>
+                <a href="https://xplorer.karatelabs.io">Xplorer</a>
             </h3>            
         </th>      
         <th>
