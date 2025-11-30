@@ -48,7 +48,7 @@
                 <a href="https://karatelabs.io">Web Site</a>
             </h3>            
             <h3>
-                <a href="https://karatelabs.github.io/karate">Documentation</a>
+                <a href="https://docs.karatelabs.io">Documentation</a>
             </h3>            
         </th>
         <th>
