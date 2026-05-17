@@ -39,7 +39,7 @@
         <th width="20%">:bulb: &nbsp; Guides</th>
         <th width="20%">:electric_plug: &nbsp; Tools</th>  
         <th width="20%">:phone: &nbsp; Support</th>
-        <th>:bell: &nbsp; Follow</th>
+        <th width="20%">:bell: &nbsp; Follow</th>
     </tr>
     <tr>
         <th>
@@ -47,7 +47,7 @@
                 <a href="https://karatelabs.io">karatelabs.io</a>
             </h3>            
             <h3>
-                <a href="https://docs.karatelabs.io">Documentation</a>
+                <a href="https://docs.karatelabs.io">Docs</a>
             </h3>
             <h3>
                 <a href="https://karatelabs.io/karate-enterprise">Enterprise</a>
@@ -59,14 +59,11 @@
             </h3>
             <h3>
                 <a href="https://karatelabs.io/learning">Learn More</a>
-            </h3>         
-            <h3>
-                <a href="https://karatelabs.io/compare">Compare</a>
             </h3>
         </th>            
         <th>
             <h3>
-                <a href="https://karatelabs.io/vscode">Visual Studio Code</a>
+                <a href="https://karatelabs.io/vscode">VS Code</a>
             </h3>
             <h3>
                 <a href="https://karatelabs.io/intellij">IntelliJ IDEA</a>
