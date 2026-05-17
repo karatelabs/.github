@@ -35,10 +35,10 @@
 
 <table>
     <tr>
-        <th width="16%">:book: &nbsp; Home</th>
-        <th width="16%">:bulb: &nbsp; Guides</th>
-        <th width="16%">:electric_plug: &nbsp; Tools</th>  
-        <th width="16%">:phone: &nbsp; Support</th>
+        <th width="20%">:book: &nbsp; Home</th>
+        <th width="20%">:bulb: &nbsp; Guides</th>
+        <th width="20%">:electric_plug: &nbsp; Tools</th>  
+        <th width="20%">:phone: &nbsp; Support</th>
         <th>:bell: &nbsp; Follow</th>
     </tr>
     <tr>
