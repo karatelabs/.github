@@ -36,54 +36,48 @@
 <table>
     <tr>
         <th width="16%">:book: &nbsp; Home</th>
-        <th width="16%">:bulb: &nbsp; How To</th>
-        <th width="16%">:electric_plug: &nbsp; Tools</th>
-        <th width="16%">:octocat: &nbsp; Enterprise</th>     
+        <th width="16%">:bulb: &nbsp; Guides</th>
+        <th width="16%">:electric_plug: &nbsp; Tools</th>  
         <th width="16%">:phone: &nbsp; Support</th>
-        <th>:bell: &nbsp; Follow Us</th>
+        <th>:bell: &nbsp; Follow</th>
     </tr>
     <tr>
         <th>
             <h3>
-                <a href="https://karatelabs.io">Web Site</a>
+                <a href="https://karatelabs.io">karatelabs.io</a>
             </h3>            
             <h3>
                 <a href="https://docs.karatelabs.io">Documentation</a>
+            </h3>
+            <h3>
+                <a href="https://karatelabs.io/karate-enterprise">Enterprise</a>
             </h3>            
         </th>
         <th>
             <h3>
-                <a href="https://github.com/karatelabs/karate/wiki/Get-Started">Get Started</a>
+                <a href="https://docs.karatelabs.io/getting-started/quick-start">Get Started</a>
             </h3>
             <h3>
-                <a href="https://www.youtube.com/playlist?list=PLnONaB4tNFOkxwM3dOvXLXJstSg_wMJSs">Kick Start Videos</a>
+                <a href="https://karatelabs.io/learning">Learn More</a>
             </h3>         
             <h3>
-                <a href="https://github.com/karatelabs/karate-examples/blob/main/README.md">Examples</a>
+                <a href="https://karatelabs.io/compare">Compare</a>
             </h3>
         </th>            
         <th>
             <h3>
-                <a href="https://github.com/karatelabs/vscode-extension">Visual Studio Code</a>
+                <a href="https://karatelabs.io/vscode">Visual Studio Code</a>
             </h3>
             <h3>
-                <a href="https://github.com/karatelabs/intellij-plugin">IntelliJ IDEA</a>
+                <a href="https://karatelabs.io/intellij">IntelliJ IDEA</a>
             </h3>
             <h3>
-                <a href="https://xplorer.karatelabs.io">Xplorer</a>
+                <a href="https://karatelabs.io/xplorer">Xplorer</a>
             </h3>            
         </th>      
         <th>
             <h3>
-                <a href="https://github.com/karatelabs/karate-examples/blob/main/README.md#integrations">Integrations</a>
-            </h3>        
-            <h3>
-                <a href="https://github.com/karatelabs/karate/wiki/Karate-in-GitHub-Codespaces">GitHub Codespaces</a>
-            </h3>
-        </th>
-        <th>
-            <h3>
-                <a href="https://stackoverflow.com/questions/tagged/karate">Stack Overflow</a>
+                <a href="https://github.com/karatelabs/karate/issues">Issues</a>
             </h3>   
             <h3>
                 <a href="https://karatelabs.io/contact-us">Contact Us</a>
