@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="232" height="132" viewBox="0 0 232 132" role="img" aria-label="Karate">
-  <rect x=".5" y=".5" width="231" height="131" rx="12" fill="#0F172A" stroke="#1E293B"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="132" viewBox="0 0 134 132" role="img" aria-label="Karate">
+  <rect x=".5" y=".5" width="133" height="123" rx="10" fill="#0F172A" stroke="#1E293B"/>
+  <rect x="14" y="20" width="28" height="4" rx="2" fill="#FBBF24"/>
   <g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
-    <rect x="20" y="30" width="36" height="5" rx="2.5" fill="#FBBF24"/>
-    <text x="20" y="80" font-size="19" font-weight="700" fill="#fff">Karate</text>
-    <text x="20" y="106" font-size="13.5" fill="#94A3B8">The open-source engine</text>
+    <text font-size="15.5" font-weight="700" fill="#fff"><tspan x="14" y="52">Karate</tspan></text>
+    <text font-size="11.5" fill="#94A3B8"><tspan x="14" y="75">The open-source</tspan><tspan x="14" y="90">engine</tspan></text>
   </g>
 </svg>

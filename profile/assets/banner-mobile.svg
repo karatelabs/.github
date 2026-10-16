@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="560" viewBox="0 0 600 560" role="img" aria-label="Karate Labs. API, UI, mocks and performance. One tool. Plain syntax. Zero boilerplate.">
+  <defs>
+    <linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#F59E0B"/><stop offset="1" stop-color="#FBBF24"/></linearGradient>
+    <radialGradient id="glow" cx=".5" cy="0" r=".9"><stop offset="0" stop-color="#60A5FA" stop-opacity=".18"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="600" height="560" rx="20" fill="#0F172A"/>
+  <rect width="600" height="560" rx="20" fill="url(#glow)"/>
+  <g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <text x="44" y="82" font-size="23" font-weight="600" letter-spacing="2" fill="#60A5FA">OPEN SOURCE · MIT</text>
+    <text x="44" y="116" font-size="23" font-weight="600" letter-spacing="2" fill="#60A5FA">TRUSTED BY 76 OF THE FORTUNE 500</text>
+    <text font-size="54" font-weight="700" fill="#fff"><tspan x="44" y="196">API, UI, mocks</tspan><tspan x="44" y="258">and performance.</tspan><tspan x="44" y="320">One tool.</tspan></text>
+    <text font-size="54" font-weight="700" fill="url(#hl)"><tspan x="44" y="382">Plain syntax.</tspan><tspan x="44" y="444">Zero boilerplate.</tspan></text>
+    <text font-size="23" fill="#94A3B8"><tspan x="44" y="500">Featured in the Gartner® Market Guide</tspan><tspan x="44" y="530">for API and MCP testing tools</tspan></text>
+  </g>
+</svg>

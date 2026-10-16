@@ -1,5 +1,8 @@
 <p align="center">
-  <a href="https://karatelabs.io"><img src="assets/banner.svg" alt="Open source, MIT, trusted by 76 of the Fortune 500. API, UI, mocks and performance. One tool. Plain syntax. Zero boilerplate." width="100%" /></a>
+  <a href="https://karatelabs.io"><picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/karatelabs/.github/main/profile/assets/banner-mobile.svg">
+    <img src="https://raw.githubusercontent.com/karatelabs/.github/main/profile/assets/banner.svg" alt="Open source, MIT, trusted by 76 of the Fortune 500. API, UI, mocks and performance. One tool. Plain syntax. Zero boilerplate." width="100%" />
+  </picture></a>
 </p>
 
 <p align="center">
@@ -10,6 +13,12 @@
   <a href="https://plugins.jetbrains.com/plugin/19232-karate"><img src="https://img.shields.io/jetbrains/plugin/d/19232?style=flat-square&labelColor=0F172A&color=F59E0B&label=intellij%20downloads" alt="IntelliJ downloads" /></a>
   <a href="https://docs.karatelabs.io"><img src="https://img.shields.io/badge/docs-docs.karatelabs.io-60A5FA?style=flat-square&labelColor=0F172A" alt="Docs" /></a>
   <a href="https://veriquant.io"><img src="https://img.shields.io/badge/insurance%20rating-veriquant.io-5DCAA5?style=flat-square&labelColor=0F172A" alt="VeriQuant: insurance rating validation" /></a>
+</p>
+
+<p align="center">
+<!-- latest:start -->
+<b>Latest</b> &nbsp; Karate <a href="https://github.com/karatelabs/karate/releases/tag/v2.1.3">v2.1.3</a> released 27 Sep 2026 &nbsp;·&nbsp; On the blog: <a href="https://karatelabs.io/blog/the-deck-knows-the-answer?utm_source=github&amp;utm_medium=org-readme&amp;utm_campaign=latest">Every test-data tool generates the question. Ours ships the answer.</a>
+<!-- latest:end -->
 </p>
 
 ### A whole API test. No code, no step definitions.
@@ -29,16 +38,21 @@ API, UI, mocks and performance tests share one syntax, run in parallel, and prod
 
 <a href="https://docs.karatelabs.io"><img src="assets/cta-docs.svg" alt="Get started at docs.karatelabs.io" width="330" /></a>
 
-<a href="https://www.youtube.com/watch?v=WfVGuPURVK8"><img src="assets/video.svg" alt="Watch: Safe to ship (2:35)" width="100%" /></a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=WfVGuPURVK8"><picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/karatelabs/.github/main/profile/assets/video-mobile.svg">
+    <img src="https://raw.githubusercontent.com/karatelabs/.github/main/profile/assets/video.svg" alt="Watch: Safe to ship (2:35)" width="100%" />
+  </picture></a>
+</p>
 
 ### When AI writes the code and the tests
 
 Generation got cheap. Knowing what's safe to ship didn't. Karate governs it, on the same open-source engine.
 
 <p align="center">
-  <a href="https://karatelabs.io/velocity"><img src="assets/pillar-velocity.svg" alt="Ship faster, proven" width="32%" /></a>
-  <a href="https://karatelabs.io/trust-governance"><img src="assets/pillar-trust.svg" alt="Govern AI-written code" width="32%" /></a>
-  <a href="https://karatelabs.io/control"><img src="assets/pillar-sovereignty.svg" alt="Own your proof" width="32%" /></a>
+  <a href="https://karatelabs.io/velocity"><img src="assets/pillar-velocity.svg" alt="Ship faster, proven" /></a>
+  <a href="https://karatelabs.io/trust-governance"><img src="assets/pillar-trust.svg" alt="Govern AI-written code" /></a>
+  <a href="https://karatelabs.io/control"><img src="assets/pillar-sovereignty.svg" alt="Own your proof" /></a>
 </p>
 
 ### We publish our own failing grade
@@ -61,11 +75,11 @@ Our reference API, graded by our own tooling, in public, on every commit. No log
 ### The Karate Labs family
 
 <p align="center">
-  <a href="https://github.com/karatelabs/karate"><img src="assets/product-karate.svg" alt="Karate: the open-source engine" width="19%" /></a>
-  <a href="https://karatelabs.io/agent"><img src="assets/product-agent.svg" alt="Karate Agent" width="19%" /></a>
-  <a href="https://karatelabs.io/xplorer"><img src="assets/product-ide.svg" alt="IDE and Xplorer" width="19%" /></a>
-  <a href="https://karatelabs.io/karate-enterprise"><img src="assets/product-enterprise.svg" alt="Karate Enterprise" width="19%" /></a>
-  <a href="https://veriquant.io"><img src="assets/product-veriquant.svg" alt="VeriQuant" width="19%" /></a>
+  <a href="https://github.com/karatelabs/karate"><img src="assets/product-karate.svg" alt="Karate: the open-source engine" /></a>
+  <a href="https://karatelabs.io/agent"><img src="assets/product-agent.svg" alt="Karate Agent" /></a>
+  <a href="https://karatelabs.io/xplorer"><img src="assets/product-ide.svg" alt="IDE and Xplorer" /></a>
+  <a href="https://karatelabs.io/karate-enterprise"><img src="assets/product-enterprise.svg" alt="Karate Enterprise" /></a>
+  <a href="https://veriquant.io"><img src="assets/product-veriquant.svg" alt="VeriQuant" /></a>
 </p>
 
 > "Guidewire decided to leverage Karate Labs for our Testing Framework: a powerful, open-source, industry-standard technology designed to make testing automation simple and accessible."<br>

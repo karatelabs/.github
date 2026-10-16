@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="390" height="170" viewBox="0 0 390 170" role="img" aria-label="Own your proof">
-  <rect x=".5" y=".5" width="389" height="169" rx="14" fill="#0F172A" stroke="#1E293B"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="160" viewBox="0 0 270 160" role="img" aria-label="Own your proof">
+  <rect x=".5" y=".5" width="269" height="149" rx="12" fill="#0F172A" stroke="#1E293B"/>
   <g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
-    <text x="24" y="42" font-size="13" font-weight="600" letter-spacing="2" fill="#60A5FA">CONTROL AND SOVEREIGNTY</text>
-    <text x="24" y="84" font-size="24" font-weight="700" fill="#fff">Own your proof</text>
-    <text x="24" y="122" font-size="15" fill="#94A3B8">Evidence that never leaves your walls.</text>
-    <text x="24" y="150" font-size="14" font-weight="600" fill="#FBBF24">Learn more →</text>
+    <text x="18" y="34" font-size="11.5" font-weight="600" letter-spacing="1.5" fill="#60A5FA">CONTROL AND SOVEREIGNTY</text>
+    <text x="18" y="68" font-size="20" font-weight="700" fill="#fff">Own your proof</text>
+    <text x="18" y="98" font-size="13.5" fill="#94A3B8">Evidence that never leaves your walls.</text>
+    <text x="18" y="128" font-size="13" font-weight="600" fill="#FBBF24">Learn more →</text>
   </g>
 </svg>
