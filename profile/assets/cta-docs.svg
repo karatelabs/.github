@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="48" viewBox="0 0 330 48" role="img" aria-label="Get started at docs.karatelabs.io">
+  <defs><linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#F59E0B"/><stop offset="1" stop-color="#FBBF24"/></linearGradient></defs>
+  <rect width="330" height="48" rx="10" fill="url(#b)"/>
+  <text x="165" y="30" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Get started at docs.karatelabs.io →</text>
+</svg>
