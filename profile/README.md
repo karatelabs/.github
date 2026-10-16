@@ -1,14 +1,4 @@
 <p align="center">
-  <a href="https://karatelabs.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/karatelabs/.github/main/profile/karate-labs-wide-black.png">
-      <img src="https://raw.githubusercontent.com/karatelabs/.github/main/profile/karate-labs-wide.png" alt="Karate Labs" width="340" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://karatelabs.io"><img src="assets/banner.svg" alt="Open source, MIT, trusted by 76 of the Fortune 500. API, UI, mocks and performance. One tool. Plain syntax. Zero boilerplate." width="100%" /></a>
 </p>
 
@@ -19,6 +9,7 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=karatelabs.karate"><img src="https://img.shields.io/badge/vs%20code-install-F59E0B?style=flat-square&labelColor=0F172A" alt="Install for VS Code" /></a>
   <a href="https://plugins.jetbrains.com/plugin/19232-karate"><img src="https://img.shields.io/jetbrains/plugin/d/19232?style=flat-square&labelColor=0F172A&color=F59E0B&label=intellij%20downloads" alt="IntelliJ downloads" /></a>
   <a href="https://docs.karatelabs.io"><img src="https://img.shields.io/badge/docs-docs.karatelabs.io-60A5FA?style=flat-square&labelColor=0F172A" alt="Docs" /></a>
+  <a href="https://veriquant.io"><img src="https://img.shields.io/badge/insurance%20rating-veriquant.io-5DCAA5?style=flat-square&labelColor=0F172A" alt="VeriQuant: insurance rating validation" /></a>
 </p>
 
 ### A whole API test. No code, no step definitions.
@@ -83,6 +74,6 @@ Our reference API, graded by our own tooling, in public, on every commit. No log
 ---
 
 <p align="center">
-  <a href="https://docs.karatelabs.io">Docs</a> · <a href="https://docs.karatelabs.io/getting-started/quick-start">Get started</a> · <a href="https://karatelabs.io/learning">Learning</a> · <a href="https://karatelabs.io/karate-enterprise">Enterprise</a> · <a href="https://karatelabs.io/customers">Customers</a> · <a href="https://karatelabs.io/contact-us">Contact</a><br>
+  <a href="https://docs.karatelabs.io">Docs</a> · <a href="https://docs.karatelabs.io/getting-started/quick-start">Get started</a> · <a href="https://karatelabs.io/learning">Learning</a> · <a href="https://karatelabs.io/karate-enterprise">Enterprise</a> · <a href="https://veriquant.io">VeriQuant</a> · <a href="https://karatelabs.io/customers">Customers</a> · <a href="https://karatelabs.io/contact-us">Contact</a><br>
   <a href="https://www.linkedin.com/company/karatelabs">LinkedIn</a> · <a href="https://x.com/getkarate">X</a> · <a href="https://www.youtube.com/@karatelabs">YouTube</a>
 </p>
