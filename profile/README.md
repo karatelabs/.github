@@ -17,7 +17,7 @@
 
 <p align="center">
 <!-- latest:start -->
-<b>Latest</b> &nbsp; Karate <a href="https://github.com/karatelabs/karate/releases/tag/v2.1.3">v2.1.3</a> released 27 Sep 2026 &nbsp;·&nbsp; On the blog: <a href="https://karatelabs.io/blog/the-deck-knows-the-answer?utm_source=github&amp;utm_medium=org-readme&amp;utm_campaign=latest">Every test-data tool generates the question. Ours ships the answer.</a>
+<b>Latest</b> &nbsp; Karate <a href="https://github.com/karatelabs/karate/releases/tag/v2.1.4">v2.1.4</a> released 22 Oct 2026 &nbsp;·&nbsp; On the blog: <a href="https://karatelabs.io/blog/the-deck-knows-the-answer?utm_source=github&amp;utm_medium=org-readme&amp;utm_campaign=latest">Every test-data tool generates the question. Ours ships the answer.</a>
 <!-- latest:end -->
 </p>
 
