@@ -77,9 +77,18 @@ Our reference API, graded by our own tooling, in public, on every commit. No log
 <p align="center">
   <a href="https://github.com/karatelabs/karate"><img src="assets/product-karate.svg" alt="Karate: the open-source engine" /></a>
   <a href="https://karatelabs.io/agent"><img src="assets/product-agent.svg" alt="Karate Agent" /></a>
-  <a href="https://karatelabs.io/xplorer"><img src="assets/product-ide.svg" alt="IDE and Xplorer" /></a>
   <a href="https://karatelabs.io/karate-enterprise"><img src="assets/product-enterprise.svg" alt="Karate Enterprise" /></a>
   <a href="https://veriquant.io"><img src="assets/product-veriquant.svg" alt="VeriQuant" /></a>
+</p>
+
+<p align="center">
+  <a href="https://karatelabs.io/xplorer"><img src="assets/product-xplorer.svg" alt="Xplorer desktop app, demo video 1:25" /></a>
+  <a href="https://karatelabs.io/vscode"><img src="assets/product-vscode.svg" alt="VS Code extension, demo video 2:16" /></a>
+  <a href="https://karatelabs.io/intellij"><img src="assets/product-intellij.svg" alt="IntelliJ plugin, demo video 3:01" /></a>
+</p>
+
+<p align="center">
+  <sub>Where you write tests. New demo videos: <a href="https://www.youtube.com/watch?v=FR57JlOlrbA">Karate for VS Code</a> · <a href="https://www.youtube.com/watch?v=hqBEdBuWCxw">Karate for IntelliJ</a>, write it, run it, debug it.</sub>
 </p>
 
 > "Guidewire decided to leverage Karate Labs for our Testing Framework: a powerful, open-source, industry-standard technology designed to make testing automation simple and accessible."<br>
